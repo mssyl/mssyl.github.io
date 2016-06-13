@@ -1,9 +1,15 @@
 body {
 	background-color: #ECDFFF;
+	background: url("../images/necklace1.jpg") no-repeat center top scroll;
+	-webkit-background-size:cover; /*chrome/safari*/
+	-moz-background-size:cover; /*firefox*/
+	-o-background-size:cover; /*opera*/
+	background-size:cover;
 }
 h1 {
 	font-size: 100px;
 	font-weight: bold;
+
 }
 h1, p {
 	text-align: center;
