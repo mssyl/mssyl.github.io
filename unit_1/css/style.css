@@ -5,6 +5,9 @@ body {
 	-o-background-size:cover; /*opera*/
 	background-size:cover;
 }
+header {
+	padding-top: 20px;
+}
 h1 {
 	font-size: 75px;
 	font-weight: bold;
